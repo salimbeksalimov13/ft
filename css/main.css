@@ -1,0 +1,36 @@
+
+footer{
+    font-family:fantasy ;
+    margin-left: -9px;
+}
+.site-footer p {
+  display: inline-block;
+  vertical-align: middle;
+  padding: 0 30px;
+}
+.site-footer .container {
+  text-align: center; 
+
+}
+
+.site-footer {
+  min-width: 500px;
+  background-color: #656c86;
+  color: rgba(255, 255, 255, 0.64);
+  position: fixed;
+  bottom:0;
+  width: 102%;
+}
+body{
+    background: url(/img/ph1.jpg);
+}
+header{
+    background-color: #656c86; 
+    border-radius: 7px;
+}
+header h1{
+    text-align: center;
+    color:rgba(255, 255, 255, 0.64);
+    font-size: 29px;
+    
+}

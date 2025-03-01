@@ -17,7 +17,7 @@ header{
     border-radius: 15px;
 }
 body{
-    background: url(ph3.png)
+    background: url(/img/ph3.png)
 }
 footer{
     font-family:fantasy ;
@@ -29,17 +29,18 @@ footer{
 }
 .site-footer .container {
   text-align: center;
-
+    
+  
   
 }
 
 .site-footer {
-  min-width: 500px;
   background-color: #626984;
   color: rgba(255, 255, 255, 0.64);
   position: fixed;
   bottom:0;
   width: 100%;
+  left: 0px;
 }
 h3{
     margin: 0 auto;
@@ -57,10 +58,10 @@ h3{
     justify-content: center;
     align-content:center;
     min-height: 45vh;
-    width: 45%;
+    width: 53%;
     background-color: darkcyan;
     color: #fff;   
-    border-radius: 15px;
+    border-radius: 28px;
     margin: 0 auto;
     margin-top:79px;
 }

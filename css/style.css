@@ -17,7 +17,7 @@ header{
     border-radius: 15px;
 }
 body{
-    background: url(ph3.png)
+    background: url(/img/ph3.png)
 }
 footer{
     font-family:fantasy ;
@@ -46,7 +46,7 @@ footer{
     justify-content: center;
     align-content:center;
     min-height: 28vh;
-    width: 45%;
+    width: 52%;
     background-color: darkcyan;
     color: #fff;   
     border-radius: 18px;
@@ -87,7 +87,6 @@ footer{
     font-size: 19px;
 }
 
-}
 .remember a:hover{
     text-decoration: underline;
 }
